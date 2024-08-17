@@ -1,4 +1,5 @@
--datos_limpia.csv son los datos resultantes luego de todo el preprocesameinto. a la cedula no se ha aplicado proceso
+-datos_limpia.csv son los datos resultantes luego de todo el preprocesameinto. a la cedula no se ha aplicado proceso.
+Este es el archivo base para realizar el clustering.
 -datos_limpia_codifcada son los datos de de datos_limpia.csv pero codificado las varibales nominales y ordinales
 -datos_clusterizados son el resultado del modelo aplicando todas las variables
 -datos_sub_clusterizados es el resultado de aplicar solo las variables 	
