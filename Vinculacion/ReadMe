@@ -1,0 +1,5 @@
+-datos_limpia.csv son los datos resultantes luego de todo el preprocesameinto. a la cedula no se ha aplicado proceso
+-datos_limpia_codifcada son los datos de de datos_limpia.csv pero codificado las varibales nominales y ordinales
+-datos_clusterizados son el resultado del modelo aplicando todas las variables
+-datos_sub_clusterizados es el resultado de aplicar solo las variables 	
+|PORCENTAJE\n%	|GRADO O CURSO\n2023 2024|	TIPOD_AUDITIVA|	TIPOD_FISICA	|TIPOD_INTELECTUAL	|TIPOD_NINGUNA	|TIPOD_PSICOSOCIAL|	TIPOD_VISUAL	
